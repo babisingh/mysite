@@ -45,9 +45,9 @@ And for a time I got deeply interested in AI:
 * Works published by [Eliezer Yudkowsky](http://yudkowsky.net/)
 * Works/talks by [Eric Horvitz](http://erichorvitz.com/)
 * Research articles and posts published by [MIRI](https://intelligence.org/), [Future of life Institute](https://futureoflife.org/category/ai/) & [DeepMind](https://deepmind.com/blog/)
-* These -> [[1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) and  [2](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html) ] detailed articles covered on AI by [Wait but Why](https://waitbutwhy.com/) (also [this one](https://waitbutwhy.com/2017/04/neuralink.html) on Neuralink, Tim Urban [T_T](https://imgur.com/a/6QmfQgh)).
+* These [Wait but Why](https://waitbutwhy.com/) articles: [[1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) and  [2](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html) ] with detail coverage on AI (also [this one](https://waitbutwhy.com/2017/04/neuralink.html) on Neuralink, Tim Urban [T_T](https://imgur.com/a/6QmfQgh)).
 * [This](http://www.sciencemag.org/news/2017/07/ai-revolution-science) special issue published in July 2017 by Science Magazine.
-* An the person that said it's possible, [Alan Turing](https://futurism.com/images/turing/).
+* And the person that said it's possible, [Alan Turing](https://futurism.com/images/turing/).
 
 
 

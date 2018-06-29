@@ -15,11 +15,11 @@ weight = 50
 
 +++
 
-In the beginning of 2018, I received an Erasmus Young Entrepreneurship award to learn social entrepreneurship. My interest in psychology, society and sewing lead me to work with a non-profit called Made in Carcere (Made in Prison). From six months I have been working inside maximum security prison in Italy with male and female detainees, together we design & develop fashion accessories such as handbags and t-shirts. It is an ongoing, life changing experience that I am observing in real-time, Among other things I am learning 1) how businesses run, 2) how prisons run and 3) how human psychology runs. I have much to say about this experience, if there are listeners.
+In the beginning of 2018, I received an Erasmus Young Entrepreneurship award to learn social entrepreneurship. My interest in psychology, society (and dress-designing) lead me to work with a non-profit called Made in Carcere (Made in Prison). For six months I have been working inside maximum security prison in Italy with male and female detainees, together we design & develop fashion accessories such as handbags and t-shirts. A life changing experience that brought a shift in perspective to say the least.
 
-The part that I enjoy the most about this Entrepreneur learning is to use the skills I developed through work, procrastination or hobbies together. I am writing codes, developing website, reading materials, making graphics, managing social media, designing and stitching clothes, researching & writing articles.. sometime all of it in a single day!
+Entrepreneurial learning allows me to combine skills I developed through work, procrastination or hobbies together. I develop website, read materials, make graphics, manage social media, design and stitch clothes, research & write articles.. sometime all of it in a single day!
 
-I would like to post few resources that helped me so far in understanding how people run businesses. It's a small list of tools that I found on internet (mostly r/entrepreneur on Reddit):
+I would like to post few resources that helped me so far in understanding how people run businesses. It's a small list of tools that I found on internet (mostly browsing r/entrepreneur on Reddit):
 
 Here is the start that almost all business 'gurus' (shout out to Gary Vs and Tim Ferrises of business world) recommend to honestly ask yourself again and again.
 
@@ -123,4 +123,4 @@ I have tested them all, most of these tools give free services for beginners.. s
 [Room.co](https://Room.co/) - super simple video meetings
 
 
-It is baffling to know there so many tricks and tools to keep the enterprises functioning, clients happy and money rotating. These are the one I came across while starting, I am still exploring, might update the list later.
+It is baffling to know there so many tricks and tools that keep enterprises functioning, clients happy and money rotating. These are the one I came across while starting, I am still exploring, might update the list later.
